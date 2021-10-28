@@ -4,7 +4,7 @@ Hava durumu uygulaması.
 
 Anasayfada cihazın konumuna göre hava durumu bilgileri ve yakın lokasyonlar listelenmektedir. 
 
-Listedeki lokasyonlara girildiğinde o lokasyona ait ayrıntılı hava durumu bilgileri bulunmaktadır.
+Listedeki lokasyonlara girildiğinde o lokasyona ait haftalık hava durumu ve o güne ait ayrıntılı hava durumu bilgileri bulunmaktadır.
 
 Uygulama üzerinde internet ve konum kontrolü yapılmaktadır.
 
