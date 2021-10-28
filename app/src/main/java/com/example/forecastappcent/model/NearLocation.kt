@@ -1,0 +1,27 @@
+package com.example.forecastappcent.model
+
+import com.google.gson.annotations.Expose
+import com.google.gson.annotations.SerializedName
+
+class NearLocation {
+    @SerializedName("distance")
+    @Expose
+    var distance: Int? = null
+
+    @SerializedName("title")
+    @Expose
+    var title: String? = null
+
+    @SerializedName("location_type")
+    @Expose
+    var locationType: String? = null
+
+    @SerializedName("woeid")
+    @Expose
+    var woeid: Int? = null
+
+    @SerializedName("latt_long")
+    @Expose
+    var lattLong: String? = null
+
+}
