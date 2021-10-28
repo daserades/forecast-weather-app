@@ -2,13 +2,13 @@
 
 Hava durumu uygulaması.
 
-Anasayfada cihazın konumuna göre hava durumu bilgieri ve yakın lokasyonlar listelenmektedir. 
+Anasayfada cihazın konumuna göre hava durumu bilgileri ve yakın lokasyonlar listelenmektedir. 
 
 Listedeki lokasyonlara girildiğinde o lokasyona ait ayrıntılı hava durumu bilgileri bulunmaktadır.
 
 Uygulama üzerinde internet ve konum kontrolü yapılmaktadır.
 
-MVVM, databinding, livebinding, retrofit gibi yapılar uygulama geliştirilirken kullanılmıştır.
+MVVM, databinding, livedata, retrofit gibi yapılar uygulama geliştirilirken kullanılmıştır.
 
 
 ## API LİNK :
