@@ -8,6 +8,8 @@ Listedeki lokasyonlara girildiğinde o lokasyona ait ayrıntılı hava durumu bi
 
 Uygulama üzerinde internet ve konum kontrolü yapılmaktadır.
 
+MVVM, databinding, livebinding, retrofit gibi yapılar uygulama geliştirilirken kullanılmıştır.
+
 
 ## API LİNK :
 
